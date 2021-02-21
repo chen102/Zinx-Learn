@@ -1,0 +1,8 @@
+{
+        "Name":"Zinx V0.8 DeamServerApp",
+        "Host":"192.168.110.221",
+        "TcpPort":8001,
+        "MaxConn":3,
+        "WorkerPoolSize":10
+
+}
